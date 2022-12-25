@@ -1,0 +1,29 @@
+{
+  "name": "odev1-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "şira nur yeşilırmak siranur_03@hotmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.1"
+  }
+}
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
